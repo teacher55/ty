@@ -1,0 +1,39 @@
+body {
+	padding: 0;
+}
+.col-md-9 {
+	font-family: arial;
+	font-size: 20px;
+}
+
+.row h1 {
+	text-align: center;
+}
+
+.row h3 {
+ font-weight: bold;
+}
+
+.row {
+	padding: 3%;
+}
+ 
+.sign-up {
+	height: 70%;
+	width: 70%;
+}
+
+.sign-in {
+	height: 70%;
+	width: 70%;
+}
+
+.work {
+    height: 70%;
+    width: 70%;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
